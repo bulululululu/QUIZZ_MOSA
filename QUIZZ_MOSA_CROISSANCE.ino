@@ -3,8 +3,8 @@
 const int ledVerte = 11;
 const int ledRouge = 12;
 
-const int questions[] = {4, 5, 6, 7, 8, 9, 10}; // Boutons de droite
-const int reponses[] = {2, 3 }; // Boutons de gauche
+const int questions[] = {2, 3}; // Boutons de gauche
+const int reponses[] = {4, 5, 6, 7, 8, 9, 10}; // Boutons de droite
 
 const int correspondances[][7] = {
     {-1, -1, 6, -1, -1, 9, 10}, // Solutions question 1 
