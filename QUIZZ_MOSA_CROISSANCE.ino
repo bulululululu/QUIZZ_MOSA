@@ -1,7 +1,7 @@
 //QUIZZ MOSASAURE "CROISSANCE"
 
-const int ledVerte = 11;
-const int ledRouge = 12;
+const int ledVerte = 11; //Led Verte
+const int ledRouge = 12; //Led Rouge
 
 const int questions[] = {2, 3}; // Boutons de gauche
 const int reponses[] = {4, 5, 6, 7, 8, 9, 10}; // Boutons de droite
