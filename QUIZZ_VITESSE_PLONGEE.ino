@@ -8,7 +8,7 @@ const int reponses[] = {4, 5, 6, 7, 8, 9, 10}; // Boutons de droite
 
 const int correspondances[][7] = {
     {4, -1, -1, -1, -1, -1, 10}, // Solutions question 1 
-    {-1, -1, -6, 7, -1, -1, -1}, // Solutions question 2 
+    {-1, -1, 6, 7, -1, -1, -1}, // Solutions question 2 
  };
 
 const int nbQuestions = sizeof(questions) / sizeof(questions[0]);
